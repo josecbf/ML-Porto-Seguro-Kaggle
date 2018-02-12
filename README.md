@@ -42,5 +42,7 @@ And the following libraries (should work in all versions)
 ### Execution
 
 To run this project and get the same submission file you have to dowload the data in the link below and put the train.csv and test.csv in the folder udacity-data
+
 Then you have run this command: python3 final_model.py
+
 The submission file will be in the folder output
